@@ -1,0 +1,22 @@
+{
+  "name": "tts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddiefujiwara/aws-lambda-tts.git"
+  },
+  "author": "Fumikazu Fujiwara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freddiefujiwara/aws-lambda-tts/issues"
+  },
+  "homepage": "https://github.com/freddiefujiwara/aws-lambda-tts#readme",
+  "dependencies": {
+    "google-home-speaker": "0.0.6"
+  }
+}
